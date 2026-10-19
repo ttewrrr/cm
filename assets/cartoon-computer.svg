@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 190" role="img" aria-labelledby="title">
+  <title id="title">Happy retro computer mascot</title>
+  <path d="M28 57 42 35l17 13m120 9 17-21 8 28" fill="#ffd54d" stroke="#17243b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 49 51 24l14 27m113-2 11-26 16 22" fill="#ff8a5b" stroke="#17243b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="36" y="44" width="168" height="112" rx="22" fill="#ff8a5b" stroke="#17243b" stroke-width="7"/>
+  <rect x="52" y="58" width="136" height="73" rx="13" fill="#b9f3dc" stroke="#17243b" stroke-width="5"/>
+  <path d="M88 92v2m64-2v2" stroke="#17243b" stroke-width="10" stroke-linecap="round"/>
+  <path d="M91 107q29 28 58 0" fill="none" stroke="#17243b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="66" cy="144" r="5" fill="#ffd54d" stroke="#17243b" stroke-width="3"/>
+  <circle cx="84" cy="144" r="5" fill="#58c6e8" stroke="#17243b" stroke-width="3"/>
+  <path d="M93 156v14m54-14v14" stroke="#17243b" stroke-width="7" stroke-linecap="round"/>
+  <path d="M77 176h28m29 0h28" stroke="#17243b" stroke-width="9" stroke-linecap="round"/>
+  <path d="M28 95H13m214 0h-15" stroke="#17243b" stroke-width="7" stroke-linecap="round"/>
+  <path d="m18 84 5 11-5 11m204-22-5 11 5 11" fill="none" stroke="#ffd54d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
